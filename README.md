@@ -1,1 +1,11 @@
-# krysha_parser
+# krysha_parser![Рисунок12](https://github.com/karibays/krysha_parser/assets/77321432/e726d8d4-4d8c-4166-9dd5-403ec3fc9712)
+![Скриншот 20-04-2023 091141](https://github.com/karibays/krysha_parser/assets/77321432/867ad454-896d-4e66-884e-293abed0706d)
+![Скриншот 20-04-2023 091329](https://github.com/karibays/krysha_parser/assets/77321432/59569da2-6bf7-4547-8646-3bb5558a6029)
+![Рисунок1](https://github.com/karibays/krysha_parser/assets/77321432/dbd5aaef-0554-4d97-afa4-cfe51e429699)
+![Рисунок5](https://github.com/karibays/krysha_parser/assets/77321432/3ad43312-438e-4436-bc3d-bc8942562b9c)
+![Рисунок6](https://github.com/karibays/krysha_parser/assets/77321432/ebb5ec21-d31d-423f-94d0-496321426613)
+![Рисунок7](https://github.com/karibays/krysha_parser/assets/77321432/28353723-3947-44a7-943c-65c0e93d3286)
+![Рисунок8](https://github.com/karibays/krysha_parser/assets/77321432/0ba86248-f320-4af2-9492-1eafdfb377fc)
+![Рисунок9](https://github.com/karibays/krysha_parser/assets/77321432/eb43f056-0719-43ff-8155-054c8c7266c3)
+![Рисунок10](https://github.com/karibays/krysha_parser/assets/77321432/80394201-e38e-42d3-8152-1f74ed42f5bf)
+![Рисунок11](https://github.com/karibays/krysha_parser/assets/77321432/eccb5eea-d8df-4887-8d4b-ac00971a70f2)
